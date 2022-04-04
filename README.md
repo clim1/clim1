@@ -5,7 +5,7 @@
 ## I’m a _UX Designer_ and HCI student focused on establishing a positive digital footprint. 🤙
 
 ### Currently Designing at [Commit the Change](https://ctc-uci.com/) and [UCI SCES IT](https://www.studentcenter.uci.edu/).  
-### Incoming UX Designer at [Amazon](https://www.amazon.jobs/en/teams/scot)
+Incoming UX Designer at [Amazon](https://www.amazon.jobs/en/teams/scot)
 
 - 🔭 I’m currently working on a UCI Bathroom Map 
 - 🌱 I’m currently learning about Project Management, Service Design, and Front-end Development
