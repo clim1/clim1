@@ -10,6 +10,7 @@ Incoming UX Designer at [Amazon](https://www.amazon.jobs/en/teams/scot)
 - 🔭 I’m currently working on a UCI Bathroom Map 
 - 🌱 I’m currently learning about Project Management, Service Design, and Front-end Development
 - 💬 Ask me about the Design Process and breaking into UX
+- 🌽 My Lego avatar is Corn Cobb Guy (look him up for details!)
 
 Feel free to check out my project work on my [portfolio](https://carlosalim.com).   
 Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/carlosalim7/)! 
